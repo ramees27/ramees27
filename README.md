@@ -52,7 +52,7 @@
 
 ## 🌍 **Connect With Me**
 <p align="center">
-  <a href="www.linkedin.com/in/ramees-kt-687b1a311">
+  <a href="https://www.linkedin.com/in/ramees-kt-687b1a311/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&borderRadius=20" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/rameez__27?igsh=MTBmbXFreXNyNXoxdQ%3D%3D&utm_source=qr">
