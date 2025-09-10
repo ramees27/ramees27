@@ -5,7 +5,7 @@
   🚀 Passionate about creating scalable & high-performance applications.<br>
   🔹 Skilled in <b>React, Redux, Tailwind CSS, .NET Core, MS SQL Server</b>.<br>
   🔹 Experienced in <b>REST APIs, Authentication (JWT), and Entity Framework</b>.<br>
-  🔹 Currently working at <b>Bridgeon Solutions</b>.
+  🔹 Currently working at <b>Benzy Infotech</b>.
 </p>
 
 ---
